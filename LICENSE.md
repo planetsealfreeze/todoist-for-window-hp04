@@ -1,4 +1,4 @@
-# 
+# Enhance Todoist for Windows with automatic Todoist for Windows Plugin | cloud-sync + due-dates, the #1 plugin. Includes cloud-sync and due-dates for a smoother and more productive
 
 
 
